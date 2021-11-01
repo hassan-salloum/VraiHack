@@ -12,11 +12,12 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++           
 🤔 I’m looking for help with "osmobsc" ? how we can use it in a real attack scenario 🤔
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
-Find me on 🌎:<div class="button-group minor-group">
+Find me on 🌎:
+    <div class="button-group minor-group">
     <a href="https://www.instagram.com/mic.tec/" class="button primary">Instagram</a>
     <a href="https://www.linkedin.com/in/hassan-profile/" class="button">Linkedin</a>
     <a href="https://www.scribd.com/in/hassan-profile/" class="button">Scribd</a>   
-    </div>
-    
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGray&theme=dark" width="48%" >
+    </div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGray&theme=dark" width="48%" >
 
+   
+   

@@ -10,7 +10,7 @@
        - installation of complete mail system [SMTP, IMAP, webserver, webmail]
        - Advanced AD Pentesting technique
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
-   🤔 I’m looking for help with "osmobts and osmobsc" ? how we use it in real word attack 🤔
+🤔 I’m looking for help with "osmobts and osmobsc" ? how we use it in real word attack 🤔
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
 ### 💬 My domains of skills, where you can ask me about:
        - 🐱‍💻Offensive Pentesting 

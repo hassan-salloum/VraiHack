@@ -12,6 +12,6 @@
 
 ### Find me on 🌎:<div class="button-group minor-group"><a href="https://www.instagram.com/mic.tec/" class="button primary">Instagram</a>.........<a href="https://www.linkedin.com/in/hassan-profile/" class="button">Linkedin</a>.........<a href="https://fr.scribd.com/user/282548159/HackGray" class="button">Scribd</a> 
 
-</div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGray&theme=dark" width="48%" >
+</div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGrey&theme=dark" width="48%" >
 
 

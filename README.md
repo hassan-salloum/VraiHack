@@ -9,8 +9,6 @@
        - android malware [byapssing android sec and AV and GooglePlay protections]
        - installation of complete mail system [SMTP, IMAP, webserver, webmail]
        - Advanced AD Pentesting technique
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++           
-🤔 I’m looking for help with "osmobsc" ? how we can use it in a real attack scenario 🤔
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
 Find me on 🌎:
     <div class="button-group minor-group">

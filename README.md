@@ -15,6 +15,6 @@
        - 🐱‍💻Offensive Pentesting 
        - 🌐 IoT (LoraWan)
        - 📡 Radio mobile (all technologies)
-       - :speaker:Video SoundBox (Alexa)
+       - 🎙️ Video SoundBox (Alexa)
 
 

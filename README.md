@@ -17,5 +17,7 @@ Find me on 🌎:
     <a href="https://www.scribd.com/in/hassan-profile/" class="button">Scribd</a>   
     </div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGray&theme=dark" width="48%" >
 
-   <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Primary link</a>
+<button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Single toggle
+</button>
    

@@ -5,16 +5,16 @@
 
 
 ### 🔭 I’m currently working on 4 researchs : 
-   - Radio mobile hacking [GSM, GPRS, SMS, VOIP, VOLTE] 
-   - android malware [byapssing android sec and AV and GooglePlay protections]
-   - installation of complete mail system [SMTP, IMAP, webserver, webmail]
+       - Radio mobile hacking [GSM, GPRS, SMS, VOIP, VOLTE] 
+       - android malware [byapssing android sec and AV and GooglePlay protections]
+       - installation of complete mail system [SMTP, IMAP, webserver, webmail]
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
-- 🤔 I’m looking for help with "osmobts and osmobsc"
+   🤔 I’m looking for help with "osmobts and osmobsc" ? how we use it in real word attack 🤔
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
-###💬 You can ask me about:
-   - Offensive Pentesting 
-   - IoT (LoraWan)
-   - :satellite: Radio mobile (all technologies)
-   -  
+### 💬 My domains of skills, where you can ask me about:
+       - 🐱‍💻Offensive Pentesting 
+       - 🌐 IoT (LoraWan)
+       - 📡 Radio mobile (all technologies)
+       - :speaker: Video SoundBox (Alexa)
 
 

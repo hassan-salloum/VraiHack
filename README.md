@@ -18,5 +18,7 @@
        - 📡 Radio mobile (all technologies)
        - 🎙️ Video SoundBox (Alexa)
 
-Find me on instagram 🌎: 
-https://www.instagram.com/mic.tec/
+Find me on:
+- instagram 🌎:https://www.instagram.com/mic.tec/
+- Linkedin 💼: https://www.linkedin.com/in/hassan-profile/
+- [![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)

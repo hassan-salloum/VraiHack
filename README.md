@@ -25,4 +25,4 @@ Find me on 🌎:
     <a href="https://www.scribd.com/in/hassan-profile/" class="button">Scribd</a>   
     </div>
     
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGray&theme=dark" width="48%" >

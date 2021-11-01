@@ -10,6 +10,11 @@
    - installation of complete mail system [SMTP, IMAP, webserver, webmail]
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
 - 🤔 I’m looking for help with "osmobts and osmobsc"
-- 💬 You can ask me about Offensive Pentesting + IoT + Radio mobile
-- ⚡ Fun fact: i dont like footbal but when people ask about my favorite sport, i say footbal because this is the only things i played in my childhood
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+###💬 You can ask me about:
+   - Offensive Pentesting 
+   - IoT (LoraWan)
+   - :satellite: Radio mobile (all technologies)
+   -  
+
 

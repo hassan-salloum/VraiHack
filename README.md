@@ -2,7 +2,7 @@
 #### 🔭 My skills are in these 4 sectors :
        - 🐱‍💻Offensive Pentesting 
        - 🌐 IoT (LoraWan)
-       - 📡 Radio mobile (all technologies)
+       - 📡 mobile telecommunication
        - 🎙️ Video SoundBox (Alexa)
 #### 🔭 And i’m currently working on 4 personnal projects : 
        - Radio mobile Threats & hacking Technique for [GSM, GPRS, SMS, VOIP, VOLTE] 

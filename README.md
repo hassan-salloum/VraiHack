@@ -22,6 +22,9 @@ Find me on:
 - instagram 🌎:https://www.instagram.com/mic.tec/
 - Linkedin 💼: https://www.linkedin.com/in/hassan-profile/
 
-<a href="#" class="button"></a>
-<input class="button" type="submit" value="Post comment (input)" url="https://www.instagram.com/mic.tec/">
-<button class="button" type="submit">Post comment (button)</button>
+<div class="button-group minor-group">
+    <a href="#" class="button primary">Dashboard</a>
+    <a href="#" class="button">Inbox</a>
+    <a href="#" class="button">Account</a>
+    <a href="#" class="button">Logout</a>
+</div>

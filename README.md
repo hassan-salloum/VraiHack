@@ -22,6 +22,6 @@ Find me on:
 - instagram 🌎:https://www.instagram.com/mic.tec/
 - Linkedin 💼: https://www.linkedin.com/in/hassan-profile/
 
-<a href="#" class="button">Post comment (link)</a>
+<a href="#" class="button"></a>
 <input class="button" type="submit" value="Post comment (input)" url="https://www.instagram.com/mic.tec/">
 <button class="button" type="submit">Post comment (button)</button>

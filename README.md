@@ -5,10 +5,10 @@
        - 📡 Radio mobile (all technologies)
        - 🎙️ Video SoundBox (Alexa)
 ### 🔭 I’m currently working on 4 researchs : 
-       - Radio mobile hacking [GSM, GPRS, SMS, VOIP, VOLTE] 
+       - Radio mobile Threats & hacking Technique for [GSM, GPRS, SMS, VOIP, VOLTE] 
        - android malware [byapssing android sec and AV and GooglePlay protections]
-       - installation of complete mail system [SMTP, IMAP, webserver, webmail]
-       - Advanced AD Pentesting technique
+       - Tutorial about how to install a complete mail system [SMTP, IMAP, webserver, webmail]
+       - Seaching for more Advanced AD Pentesting techniques for my CheatSheet
 
 ### Find me on 🌎:<div class="button-group minor-group"><a href="https://www.instagram.com/mic.tec/" class="button primary">Instagram</a>   <a href="https://www.linkedin.com/in/hassan-profile/" class="button">Linkedin</a>   <a href="https://fr.scribd.com/user/282548159/HackGray" class="button">Scribd</a> 
 

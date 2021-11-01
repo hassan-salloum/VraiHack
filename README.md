@@ -22,8 +22,7 @@ Find me on:
 - instagram 🌎:
 - Linkedin 💼: https://www.linkedin.com/in/hassan-profile/
 
-<div class="button-group minor-group">
     <a href="https://www.instagram.com/mic.tec/" class="button primary">Instagram</a>
     <a href="https://www.linkedin.com/in/hassan-profile/" class="button">Linkedin</a>
     <a href="https://www.scribd.com/in/hassan-profile/" class="button">Scribd</a>   
-</div>
+

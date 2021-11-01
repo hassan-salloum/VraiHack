@@ -24,4 +24,5 @@ Find me on 🌎:
     <a href="https://www.linkedin.com/in/hassan-profile/" class="button">Linkedin</a>
     <a href="https://www.scribd.com/in/hassan-profile/" class="button">Scribd</a>   
     </div>
-    <a href="#" class="button icon search">Search</a>
+    
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >

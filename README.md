@@ -1,5 +1,5 @@
 ### Hello there. My name is Hassan 👋
-### 💬 My domains of skills, where you can ask me about:
+### 💬 My skills are in these 4 sectors :
        - 🐱‍💻Offensive Pentesting 
        - 🌐 IoT (LoraWan)
        - 📡 Radio mobile (all technologies)

@@ -1,4 +1,4 @@
-### Hi there. I'm Hassan 👋
+### Hello there. My name is Hassan 👋
 
 
 **HackGray/HackGray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

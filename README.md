@@ -1,7 +1,7 @@
 ### Hello there. My name is Hassan 👋
 
 
-**HackGray/HackGray** is my special place to share my works with you
+**HackGray/HackGray** is my favorite place to share my works with you
 
 
 - 🔭 I’m currently working on 4 researchs : 

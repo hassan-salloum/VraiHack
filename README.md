@@ -21,4 +21,6 @@
 Find me on:
 - instagram 🌎:https://www.instagram.com/mic.tec/
 - Linkedin 💼: https://www.linkedin.com/in/hassan-profile/
-- [![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>

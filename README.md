@@ -28,5 +28,5 @@ You can find me on [![twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [2]: https://www.linkedin.com/in/hassan-profile/

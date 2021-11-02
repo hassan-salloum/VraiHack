@@ -1,10 +1,10 @@
 ## Hello there. My name is Hassan 👋
-## My skills are in these 4 sectors :
+# My skills are in these 4 sectors :
 - 🐱‍💻Offensive Pentesting 
 - 🌐 IoT (LoraWan)
 - 📡 mobile telecommunication
 - 🎙️ Video SoundBox (Alexa)      
-#### 🔭 My favorite toys are : arduino, RaspberryPI, FPGA, Nucleoboard       
+# 🔭 My favorite toys are : arduino, RaspberryPI, FPGA, Nucleoboard       
 #### 🔭 And i’m currently working on 4 personnal projects : 
        - Radio mobile Threats & hacking Technique for [GSM, GPRS, SMS, VOIP, VOLTE] 
        - android malware [byapssing android sec and AV and GooglePlay protections]

@@ -14,8 +14,6 @@
 - Tutorial about how to install a complete mail system [SMTP, IMAP, webserver, webmail]
 - Seaching for more Advanced AD Pentesting techniques for my CheatSheet
 
-### Find me on 🌎:<div class="button-group minor-group"><a href="https://www.instagram.com/mic.tec/" class="button primary">Instagram</a>..................<a href="https://www.linkedin.com/in/hassan-profile/" class="button">Linkedin</a>..................<a href="https://fr.scribd.com/user/282548159/HackGray" class="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-1155ff?style=for-the-badge&logo=LinkedIN&logoColor=white">Scribd</a> 
+### Find me on 🌎:<div class="button-group minor-group"><a href="https://www.instagram.com/mic.tec/" class="button primary">Instagram</a>..................<a href="https://www.linkedin.com/in/hassan-profile/" class="button">Linkedin</a>..................<a href="https://fr.scribd.com/user/282548159/HackGray" class="button">Scribd</a> 
 
 </div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGrey&theme=dark" width="48%" >
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-1155ff?style=for-the-badge&logo=LinkedIN&logoColor=white

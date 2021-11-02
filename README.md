@@ -3,9 +3,11 @@
 - 🐱‍💻Offensive Pentesting 
 - 🌐 IoT (LoraWan)
 - 📡 mobile telecommunication
-- 🎙️ Video SoundBox (Alexa)      
-#### My favorite toys are : arduino, RaspberryPI, FPGA, Nucleoboard       
-#### 🔭 And i’m currently working on 4 personnal projects : 
+- 🎙️ Video SoundBox (Alexa)  
+    
+#### My favorite toys are : arduino, RaspberryPI, FPGA, Nucleoboard
+
+### i’m currently working on 4 personnal projects : 
 - Radio mobile Threats & hacking Technique for [GSM, GPRS, SMS, VOIP, VOLTE] 
 - android malware [byapssing android sec and AV and GooglePlay protections]
 - Tutorial about how to install a complete mail system [SMTP, IMAP, webserver, webmail]

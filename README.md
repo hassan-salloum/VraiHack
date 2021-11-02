@@ -15,8 +15,6 @@
 - Seaching for more Advanced AD Pentesting techniques for my CheatSheet
 
 </div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGrey&theme=dark" width="48%" >
-
-
 <!-- Actual text -->
 [![1.2]][1]  [![2.2]][2]
 <!-- Icons -->

@@ -1,10 +1,10 @@
 ## Hello there. My name is Hassan 👋
 
 ### Fields where you can ask me for help :
- - 🐱‍💻Offensive Pentesting 
- - 🌐 IoT (LoraWan)
- - 📡 mobile telecommunication
- - 🎙️ Video SoundBox (Alexa)  
+   - 🐱‍💻Offensive Pentesting 
+   - 🌐 IoT (LoraWan)
+   - 📡 mobile telecommunication
+   - 🎙️ Video SoundBox (Alexa)  
     
 ### And sure my favorite toys are : arduino, RaspberryPI, FPGA, Nucleoboard
 

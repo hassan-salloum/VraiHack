@@ -28,5 +28,5 @@
 [3]: https://www.scribd.com/user/282548159/HackGrey
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-1155ff" & url="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-1155ff" url="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7" /></a>
 

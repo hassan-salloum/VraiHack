@@ -26,3 +26,8 @@
 [1]: https://www.instagram.com/mic.tec/
 [2]: https://www.linkedin.com/in/hassan-profile/
 [3]: https://www.scribd.com/user/282548159/HackGrey
+
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-1155ff?style=for-the-badge&logo=#0A66C2&logoColor=white" />
+
+

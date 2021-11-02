@@ -19,7 +19,7 @@
 
 <!-- Actual text -->
 
-You can find me on ![1.2]][1], or on [2.2]][2].
+You can find me on ![1.2][1], or on ![2.2][2].
 
 <!-- Icons -->
 

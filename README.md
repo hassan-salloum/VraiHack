@@ -2,9 +2,10 @@
 
 ### Fields where you can ask me for help :
     - 🐱‍💻Offensive Pentesting 
-    - 🌐 IoT (LoraWan)
-    - 📡 mobile telecommunication
-    - 🎙️ Video SoundBox (Alexa)  
+    - 🌐 IoT [LoraWan]
+    - 📡 mobile telecommunication [2G 3G 4G 5G]
+    - 🎙️ Video SoundBox [Alexa]
+    - electronics [arduino, RaspberryPI, FPGA, Nucleoboard, follow me on instagram]
 
 ### Currently i’m keeping myself busy on 4 personnal projects : 
     - Radio mobile Threats & hacking Technique for [GSM, GPRS, SMS, VOIP, VOLTE] 
@@ -12,7 +13,7 @@
     - Tutorial about how to install a complete mail system [SMTP, IMAP, webserver, webmail]
     - Seaching for more Advanced AD Pentesting techniques for my CheatSheet
 
-### If you love electronics : arduino, RaspberryPI, FPGA, Nucleoboard, follow me on instagram
+### You can find me on: 
 <!-- Actual text -->
 [![2.1]][2]  [![1.1]][1]
 <!-- Icons -->

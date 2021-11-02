@@ -28,6 +28,5 @@
 [3]: https://www.scribd.com/user/282548159/HackGrey
 
 
-<a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7" img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-1155ff?style=for-the-badge&logo=#0A66C2&logoColor=white" /></a>
-
+<a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7" img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-1155ff" /></a>
 

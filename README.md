@@ -5,8 +5,6 @@
     - 🌐 IoT (LoraWan)
     - 📡 mobile telecommunication
     - 🎙️ Video SoundBox (Alexa)  
-    
-### And sure my favorite toys are : arduino, RaspberryPI, FPGA, Nucleoboard
 
 ### Currently i’m keeping myself busy on 4 personnal projects : 
     - Radio mobile Threats & hacking Technique for [GSM, GPRS, SMS, VOIP, VOLTE] 

@@ -1,4 +1,5 @@
 ## Hello there. My name is Hassan 👋
+https://img.shields.io/badge/https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-1155ff?style=for-the-badge&logo=#0A66C2&logoColor=white
 
 ### Fields where you can ask me for help :
 - 🐱‍💻Offensive Pentesting 

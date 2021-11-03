@@ -5,7 +5,6 @@
     - android malware [byapssing android sec and AV and GooglePlay protections]
     - Tutorial about how to install a complete mail system [SMTP, IMAP, webserver, webmail]
     - Seaching for more Advanced AD Pentesting techniques for my CheatSheet
-    
 #### Fields where you can ask me for help :
     - 🐱‍💻 Pentesting 
     - 🌐 IoT [LoraWan]

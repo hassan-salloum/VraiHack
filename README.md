@@ -1,11 +1,13 @@
 ## 🎄 Hello there. My name is Hassan 🎄
 
 ### Fields where you can ask me for help :
-    - 🐱‍💻Offensive Pentesting 
+    - 🐱‍💻 Pentesting 
     - 🌐 IoT [LoraWan]
     - 📡 mobile telecommunication [2G 3G 4G 5G]
     - 🎙️ Video SoundBox [Alexa]
-    - electronics [arduino, RaspberryPI, FPGA, Nucleoboard, follow me on instagram]
+    
+### My favortie toys:
+    - Aarduino | RaspberryPI | FPGA | nucleo f446re
 
 ### Currently i’m keeping myself busy on 4 personnal projects : 
     - Radio mobile Threats & hacking Technique for [GSM, GPRS, SMS, VOIP, VOLTE] 

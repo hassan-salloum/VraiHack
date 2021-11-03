@@ -13,7 +13,7 @@
     - 🎙️ Video SoundBox [Alexa]
     - 📟 Aarduino | RaspberryPI | FPGA | nucleo f446re 
 ```
-#### You can find me on: 
+#### 🌐 You can find me on: 
 <!-- Actual text -->
 [![2.1]][2]  [![1.1]][1]
 <!-- Icons -->

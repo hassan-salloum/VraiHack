@@ -11,8 +11,8 @@
     - 🌐 IoT [LoraWan]
     - 📡 mobile telecommunication [2G 3G 4G 5G]
     - 🎙️ Video SoundBox [Alexa]
-    - 📟 Aarduino | RaspberryPI | FPGA | nucleo f446re
- 
+    - 📟 Aarduino | RaspberryPI | FPGA | nucleo f446re 
+```
 #### You can find me on: 
 <!-- Actual text -->
 [![2.1]][2]  [![1.1]][1]
@@ -24,5 +24,4 @@
 [2]: https://www.linkedin.com/in/hassan-profile/
 </div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGrey&theme=dark" width="48%" >
 
-```
 

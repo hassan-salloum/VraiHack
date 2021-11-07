@@ -22,6 +22,6 @@
 <!-- Links to your social media accounts -->
 [1]: https://www.instagram.com/mic.tec/
 [2]: https://www.linkedin.com/in/hassan-profile/
-</div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackGrey&theme=dark" width="48%" >
+</div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VraiHack&theme=dark" width="48%" >
 
 

@@ -1,7 +1,6 @@
 ## 🎄 Hello there! My name is Hassan 🎄
 ```diff
 @@ Currently i’m keeping myself busy on 4 personnal projects :@@
-    - Radio mobile Threats & hacking Technique for [GSM, GPRS, SMS, VOIP, VOLTE] 
     - android malware [byapssing android sec and AV and GooglePlay protections]
     - Tutorial about how to install a complete mail system [SMTP, IMAP, webserver, webmail]
     - Seaching for more Advanced AD Pentesting techniques for my CheatSheet

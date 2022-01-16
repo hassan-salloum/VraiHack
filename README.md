@@ -1,8 +1,9 @@
 ## 🎄 Hello there! My name is Hassan 🎄
 ```diff
 @@ Currently i’m keeping myself busy on 4 personnal projects :@@
-    - Tutorial about how to install a complete mail system [SMTP, IMAP, webserver, webmail]: 100% done (if you face problem with your server text me i can help)
-    - Creating A room for tryhackme
+    - Tutorial about how to install a complete mail system [SMTP, IMAP, webserver, webmail]: 
+      100% done (i will publish a technical document about the installation!)
+    - Creating A room for tryhackme (still in progress)
    
 ++ Fields where you can ask me for help :
     - 🐱‍💻 Pentesting 

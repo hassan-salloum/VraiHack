@@ -1,6 +1,6 @@
 ## 🎄 Hello there! My name is Hassan 🎄
 ```diff
-@@ Currently i’m keeping myself busy on 4 personnal projects :@@
+@@ Currently i’m keeping myself busy on 3 personnal projects :@@
     - Creating A room for tryhackme (still in progress)
     - Creating a RED TEAM framework with many advanced tools: PHISHING with (Modlishka + evilginx2) (+ some extra tools for Exfiltration)
       from : https://www.ired.team/offensive-security/ 

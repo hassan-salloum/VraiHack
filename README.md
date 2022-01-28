@@ -4,7 +4,7 @@
     - Creating A room for tryhackme (still in progress)
     - Creating a RED TEAM framework with many advanced tools: PHISHING with (Modlishka + evilginx2) (+ some extra tools for Exfiltration)
       from : https://www.ired.team/offensive-security/ 
-    - Updating my Kali environement with advanced tools for dealing with AD pivoting (Rpivot + SSHuttle + reGeorg
+    - Updating my Kali environement with advanced tools for dealing with AD pivoting
 
    
 ++ Fields where you can ask me for help :

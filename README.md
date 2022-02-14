@@ -1,6 +1,6 @@
 ## 🎄 Hello there! My name is Hassan 🎄
 ```diff
-@@ Currently i’m keeping myself busy on 3 personnal projects :@@
+@@ Currently i’m keeping myself busy on 4 personnal projects :@@
     - Pushing myself in RED Team field with many trainings
     - Updating my Red Team infrastructure with advanced techniques & tools
     - Get hand dirty in malware analysis & Reverse engineering

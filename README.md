@@ -1,10 +1,10 @@
 ## 🎄 Hello there! My name is Hassan 🎄
 ```diff
 @@ Currently i’m keeping myself busy on 3 personnal projects :@@
-    - Creating A room for tryhackme (still in progress)
-    - Creating a RED TEAM framework with many advanced tools: PHISHING with (Modlishka + evilginx2) (+ some extra tools for Exfiltration)
-      from : https://www.ired.team/offensive-security/ 
-    - Updating my Kali environement with advanced tools for dealing with AD pivoting
+    - Pushing myself in RED Team field with many trainings
+    - Updating my Red Team infrastructure with advanced techniques & tools
+    - Get hand dirty in malware analysis & Reverse engineering
+    - Push my level in shell coding
 
    
 ++ Fields where you can ask me for help :

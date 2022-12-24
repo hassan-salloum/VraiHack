@@ -1,12 +1,5 @@
 ## 🎄 Hello there! My name is Hassan 🎄
 ```diff
-@@ Currently i’m keeping myself busy on 4 personnal projects :@@
-    - Pushing myself in RED Team field with many trainings
-    - Updating my Red Team infrastructure with advanced techniques & tools
-    - Get hand dirty in malware analysis & Reverse engineering
-    - Push my level in shell coding
-
-   
 ++ Fields where you can ask me for help :
     - 🐱‍💻 Pentesting 
     - 🌐 IoT [LoraWan]

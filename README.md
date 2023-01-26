@@ -1,11 +1,7 @@
 ## 🎄 Hello there! 🎄
 ```diff
 ++ Fields where you can ask me for help :
-    - 🐱‍💻 Pentesting 
-    - 🌐 IoT [LoraWan]
-    - 📡 mobile telecommunication [2G 3G 4G 5G]
-    - 🎙️ Video SoundBox [Alexa]
-    - 📟 Aarduino | RaspberryPI | FPGA | nucleo f446re 
+    - 🐱‍💻 Pentesting Network and HW
 ```
 #### 👨‍💻 let's keep in touch please 👨‍💻: 
 <!-- Actual text -->

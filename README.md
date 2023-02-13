@@ -1,4 +1,3 @@
-## 🎄 Welcom in my Github page 🎄
 ## 🎄 VraiHack is a French word mean realhack 🎄
 ```diff
 ++ Fields where you can ask me for help :

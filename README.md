@@ -1,9 +1,11 @@
-## 🎄 Hello there! 🎄
+## 🎄 Welcom in my Github page 🎄
+## 🎄 VraiHack is a French word mean realhack 🎄
 ```diff
-++ Field where you can ask me for help :
+++ Fields where you can ask me for help :
     - 🐱‍💻 Network And hardware Pentesting
+    - 🐱‍💻 Telecom 2G/3G/4G/5G
 ```
-#### 👨‍💻 let's keep in touch please 👨‍💻: 
+#### 👨‍💻 let's communicate 👨‍💻: 
 <!-- Actual text -->
 [![2.1]][2]  [![1.1]][1]
 <!-- Icons -->

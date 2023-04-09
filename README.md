@@ -1,8 +1,8 @@
 ## 🎄 VraiHack is a French word mean realhack 🎄
 ```diff
-++ Fields where you can ask me for help :
-    - 🐱‍💻 Network And hardware Pentesting
-    - 🐱‍💻 Telecom 2G/3G/4G/5G
+++ Fields where you can ask me for help in:
+    - 🐱‍💻 Networking And hardware Pentesting
+    - 🐱‍💻 Telecommunication 2G/3G/4G/5G
 ```
 #### 👨‍💻 let's communicate 👨‍💻: 
 <!-- Actual text -->

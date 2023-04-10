@@ -4,7 +4,7 @@
     - 🐱‍💻 Networking And hardware Pentesting
     - 🐱‍💻 Telecommunication 2G/3G/4G/5G
 ```
-#### 👨‍💻 let's communicate 👨‍💻: 
+#### 👨‍💻 Where you can find me 👨‍💻: 
 <!-- Actual text -->
 [![2.1]][2]  [![1.1]][1]
 <!-- Icons -->

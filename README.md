@@ -3,6 +3,7 @@
 ++ Fields where you can ask me for help in:
     - 🐱‍💻 Networking And hardware Pentesting
     - 🐱‍💻 Telecommunication 2G/3G/4G/5G
+    - 🐱‍💻 IoT network hacking
 ```
 #### 👨‍💻 Where you can find me 👨‍💻: 
 <!-- Actual text -->

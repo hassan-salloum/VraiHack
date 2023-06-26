@@ -1,5 +1,5 @@
 ### 🎄 WELCOM INTO MY PAGE "VRAIHACK" 🎄
-𝓚𝓲𝓷𝓭𝓵𝔂, 𝓪𝓼𝓴 𝓶𝓮 𝓺𝓾𝓮𝓼𝓽𝓲𝓸𝓷𝓼 𝓲𝓷 𝓽𝓱𝓮 𝓯𝓸𝓵𝓵𝓸𝔀𝓲𝓷𝓰 𝓯𝓲𝓮𝓵𝓭𝓼:
+𝒦𝒾𝓃𝒹𝓁𝓎, 𝒶𝓈𝓀 𝓂𝓮 𝓆𝓊𝓮𝓈𝓉𝒾𝓸𝓃𝓈 𝒾𝓃 𝓉𝒽𝓮 𝒻𝓸𝓁𝓁𝓸𝓌𝒾𝓃𝓰 𝒻𝒾𝓮𝓁𝒹𝓈:
 - 🐱‍💻 Networking And hardware Pentesting
 - 🐱‍💻 Telecommunication 2G/3G/4G/5G
 - 🐱‍💻 IoT network hacking

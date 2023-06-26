@@ -1,4 +1,4 @@
-### 🎄 VraiHack page cover acitivity in the following fields 🎄
+### 🎄 VraiHack cover acitivity in the following fields 🎄
 - 🐱‍💻 Networking And hardware Pentesting
 - 🐱‍💻 Telecommunication 2G/3G/4G/5G
 - 🐱‍💻 IoT network hacking

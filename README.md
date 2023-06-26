@@ -1,5 +1,4 @@
 ### 🎄 WELCOM INTO MY PAGE "VRAIHACK" 🎄
--------------------------------------------------------------------------------------------------------------------------------
 - 🐱‍💻 Networking And hardware Pentesting
 - 🐱‍💻 Telecommunication 2G/3G/4G/5G
 - 🐱‍💻 IoT network hacking

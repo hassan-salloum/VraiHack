@@ -1,8 +1,13 @@
 ### 🎄 VraiHack is a French word mean realhack in english🎄
 -------------------------------------------------------------------------------------------------------------------------------
+This page cover the following topics:
+
 🐱‍💻 Networking And hardware Pentesting
+
 🐱‍💻 Telecommunication 2G/3G/4G/5G
+
 🐱‍💻 IoT network hacking
+
 Find more about me on: [Scribd](https://www.scribd.com/user/282548159/VraiHack)
 
 -------------------------------------------------------------------------------------------------------------------------------

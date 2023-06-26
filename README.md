@@ -1,9 +1,9 @@
 ### 🎄 𝓥𝓡𝓐𝓘𝓗𝓐𝓒𝓚 🎄
 -------------------------------------------------------------------------------------------------------------------------------
 𝐀𝐬𝐤 𝐦𝐞 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬
-- Networking And hardware Pentesting
+- Networking & hardware Pentesting
 - Telecommunication 2G/3G/4G/5G
-- IoT network hacking
+- IoT Network Hacking
 
 𝓕𝓲𝓷𝓭 𝓶𝓸𝓻𝓮 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮 𝓸𝓷: [Scribd](https://www.scribd.com/user/282548159/VraiHack)
 <!-- Actual text -->

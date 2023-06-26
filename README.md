@@ -1,4 +1,4 @@
-### 🎄 VraiHack cover acitivity in the following fields 🎄
+### 🎄 VRAI BACK, DOING PROJECTS & RESEARCHS IN THE FOLLOWING AREAS 🎄
 -------------------------------------------------------------------------------------------------------------------------------
 - 🐱‍💻 Networking And hardware Pentesting
 - 🐱‍💻 Telecommunication 2G/3G/4G/5G

@@ -4,6 +4,7 @@
     - 🐱‍💻 Networking And hardware Pentesting
     - 🐱‍💻 Telecommunication 2G/3G/4G/5G
     - 🐱‍💻 IoT network hacking
+    - Find more about me on scribd: https://www.scribd.com/user/282548159/VraiHack
 ```
 <!-- Actual text -->
 [![2.1]][2]  [![1.1]][1]
@@ -13,8 +14,8 @@
 <!-- Links to your social media accounts -->
 [1]: https://www.instagram.com/vraihack/
 [2]: https://www.linkedin.com/in/hassan-profile/
-[3]: https://www.scribd.com/user/282548159/VraiHack
 
- <iframe src="https://github.com/VraiHack" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+
+
 
 

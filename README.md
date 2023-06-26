@@ -1,5 +1,4 @@
-### 🎄 VraiHack is a French word mean realhack in english🎄
-This page cover the following subjects:
+### 🎄 VraiHack is a French word mean realhack 🎄
 
 🐱‍💻 Networking And hardware Pentesting
 
@@ -18,7 +17,7 @@ Find more about me on: [Scribd](https://www.scribd.com/user/282548159/VraiHack)
 <!-- Links to your social media accounts -->
 [1]: https://www.instagram.com/vraihack/
 [2]: https://www.linkedin.com/in/hassan-profile/
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 

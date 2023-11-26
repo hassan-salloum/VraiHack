@@ -14,7 +14,7 @@
 [2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!-- Links to your social media accounts -->
 [1]: https://www.instagram.com/vraihack/
-[2]: https://www.linkedin.com/in/hassan-profile/
+[2]: https://www.linkedin.com/in/vraihack/
 
 
 

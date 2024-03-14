@@ -1,7 +1,5 @@
 ### 🎄 𝓥𝓡𝓐𝓘𝓗𝓐𝓒𝓚 🎄
 -------------------------------------------------------------------------------------------------------------------------------
-![Screenshot 2023-09-05 000155](https://github.com/VraiHack/VraiHack/assets/26716241/4161f72a-067c-42f4-aacd-e2ac25fcb62c)
-
 - Network & hardware Pentesting
 - Telecommunication engineer 2G/3G/4G/5G
 

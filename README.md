@@ -1,5 +1,5 @@
 ### 🎄 VRAIHACK🎄
-- Network & hardware Pentesting
+- Hardware and IoT Pentesting (Intermdeiate Level)
 - Telecommunication engineer 2G/3G/4G/5G
 
 Find more about my work: [Scribd](https://fr.scribd.com/user/282548159/VRAIHACK-Institute)
